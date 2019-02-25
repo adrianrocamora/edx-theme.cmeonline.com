@@ -6,9 +6,16 @@
 
 // Define the primary color
 $robin_egg_blue: #03d5b4;
+$rhino: #2c3659;
+$persimmon: #fc6c4d;
+$white_smoke: #f0f0f0;
 
 // Set the primary color
-$primary: $robin_egg_blue;
+$primary: 		$robin_egg_blue;
+$secondary: 	$rhino;
+$info:			$persimmon;
+$inverse:       $white_smoke;
+
 
 // Theme fonts
 //$font-family-sans-serif: cursive;
